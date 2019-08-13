@@ -6,9 +6,9 @@ Artúr I. Károly<sup>1,2</sup>, Renáta Nagyné Elek<sup>1,2</sup>, Tamás Haid
 
 ###### <sup>1</sup> [Antal Bejczy Center for Intelligent Robotics](http://irob.uni-obuda.hu/?q=en)
 
-###### <sup>2</sup> Doctoral School of Applied Informatics and Applied Mathematics, ́Óbuda Universty
+###### <sup>2</sup> Doctoral School of Applied Informatics and Applied Mathematics, Óbuda Universty
 
-###### <sup>3</sup> Alba Regia Technical Faculty, ́Óbuda University
+###### <sup>3</sup> Alba Regia Technical Faculty, Óbuda University
 
 ***
 
