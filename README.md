@@ -20,7 +20,8 @@ This repository contains auxiliary materials for our paper on a deep learning mo
     Tam\'{a}s and Sz\'{e}ll, K\'{a}roly and Galambos, P\'{e}ter},
     Title = {Optical flow-based segmentation of moving objects for mobile robot navigation using pre-trained deep learning models},
     Booktitle = {2019 IEEE International Conference on Systems, Man, and Cybernetics (SMC)},
-    Year = {2019}
+    Year = {2019},
+    pages = {3060--3066}
 }
 ```
 
